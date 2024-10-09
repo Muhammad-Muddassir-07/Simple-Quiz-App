@@ -1,0 +1,219 @@
+@media (max-width: 767px) {
+    
+    body{
+        background: #001e4d;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    head{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    #quiz{
+        color: aliceblue;
+        margin: 20px auto;
+        border-radius: 10px;
+        padding: 10px;
+        text-align: center;
+        font-size: 30px;
+        font-weight: bolder;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .name{
+        padding: 10px;
+        margin-left: 50px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .name h2{
+        color: aliceblue;
+        text-align: left;
+    }
+
+    .name input{
+        background: #fff;
+        color: #222;
+        font-weight: 500px;
+        width: 50%;
+        border: 1px solid #222;
+        padding: 10px;
+        margin: 10px 0;
+        text-align: left;
+        border-radius: 4px;
+        cursor: text;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .father-name{
+        padding: 10px;
+        margin-left: 50px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .father-name h2{
+        color: aliceblue;
+        text-align: left;
+    }
+
+    .father-name input{
+        background: #fff;
+        color: #222;
+        font-weight: 500px;
+        width: 50%;
+        border: 1px solid #222;
+        padding: 10px;
+        margin: 10px 0;
+        text-align: left;
+        border-radius: 4px;
+        cursor: text;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .dob{
+        padding: 10px;
+        margin-left: 50px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .dob h2{
+        color: aliceblue;
+        text-align: left;
+    }
+
+    .dob input{
+        background: #fff;
+        color: #222;
+        font-weight: 500px;
+        width: 50%;
+        border: 1px solid #222;
+        padding: 10px;
+        margin: 10px 0;
+        text-align: left;
+        border-radius: 4px;
+        cursor: text;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .nationality{
+        padding: 10px;
+        margin-left: 50px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .nationality h2{
+        color: aliceblue;
+        text-align: left;
+    }
+
+    .nationality input{
+        background: #fff;
+        color: #222;
+        font-weight: 500px;
+        width: 50%;
+        border: 1px solid #222;
+        padding: 10px;
+        margin: 10px 0;
+        text-align: left;
+        border-radius: 4px;
+        cursor: text;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #bton{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        size: 10px;
+        text-align: center;
+        align-items: center;
+        width: 50%;
+        padding: 10px;
+        margin: 10px;
+    }
+    
+    #bton button{
+        background-color: #fff;
+        size: 5px;
+        color: #000e25;
+        margin: 10px;
+        align-items: center;
+        border-radius: 10px;
+        size: 1pxpx;
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        cursor: pointer;
+    }
+
+    #bton button:hover{
+        color: #fff;
+        background: #000e25;
+        cursor: pointer;
+    }
+
+    .note h2{
+        color: whitesmoke;
+        margin: 5px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .note p{
+        color: whitesmoke;
+        margin: 5px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .me h3{
+        color: white;
+        font-size: 45px;
+        margin-top: 100px;
+        font-style: italic;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+}
+
+
